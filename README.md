@@ -1,3 +1,3 @@
 # List-Serial-Ports
  
- Lista as portas seriais do computador
+ Software em tkinter para listar as portas seriais ativas no pc
